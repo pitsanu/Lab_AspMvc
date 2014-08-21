@@ -1,0 +1,5 @@
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm\bin\Mvc3ContactForm.dll
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm\bin\Mvc3ContactForm.pdb
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm\obj\Debug\Mvc3ContactForm.csprojResolveAssemblyReference.cache
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm\obj\Debug\Mvc3ContactForm.dll
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm\obj\Debug\Mvc3ContactForm.pdb

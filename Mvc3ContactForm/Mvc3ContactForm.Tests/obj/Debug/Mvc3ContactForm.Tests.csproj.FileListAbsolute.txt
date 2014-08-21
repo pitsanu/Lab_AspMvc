@@ -1,0 +1,8 @@
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\bin\Debug\Mvc3ContactForm.Tests.dll.config
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\bin\Debug\Mvc3ContactForm.Tests.dll
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\bin\Debug\Mvc3ContactForm.Tests.pdb
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\bin\Debug\Mvc3ContactForm.dll
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\bin\Debug\Mvc3ContactForm.pdb
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\obj\Debug\Mvc3ContactForm.Tests.csprojResolveAssemblyReference.cache
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\obj\Debug\Mvc3ContactForm.Tests.dll
+D:\Lab\Lab_AspMvc\Mvc3ContactForm\Mvc3ContactForm.Tests\obj\Debug\Mvc3ContactForm.Tests.pdb
