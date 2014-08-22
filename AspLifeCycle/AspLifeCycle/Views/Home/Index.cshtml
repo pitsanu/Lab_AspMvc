@@ -1,0 +1,32 @@
+﻿@model System.Web.HttpRequestBase
+@{
+    ViewBag.Title = "Index";
+}
+
+<p>Application Manager</p>
+<p>User: @ViewBag.UserName</p>
+<table>
+<thead>
+<tr>
+<th>Property</th><th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td>UserAgent</td><td>@Model.UserAgent</td>
+</tr>
+<tr>
+    <td>UserHostAddress</td><td>@Model.UserHostAddress</td>
+</tr>
+<tr>
+    <td>UserHostName</td><td>@Model.UserHostName</td>
+</tr>
+<tr>
+    <td>TotalBytes</td><td>@Model.TotalBytes</td>
+</tr>
+<tr>
+    <td>UserLanguages</td><td>@Model.UserLanguages</td>
+</tr>
+</tbody>
+</table>
+
