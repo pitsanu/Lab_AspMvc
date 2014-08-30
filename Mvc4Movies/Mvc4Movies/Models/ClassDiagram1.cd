@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mvc4Movies.Models.Checkers.NumberChecker">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Checkers\NumberChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mvc4Movies.Models.Checkers.NullChecker">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Checkers\NullChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mvc4Movies.Models.Checkers.LenghtChecker">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Checkers\LenghtChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mvc4Movies.Models.Checkers.Checker">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <AssociationLine Name="NextChecker" Type="Mvc4Movies.Models.Checkers.Checker" ManuallyRouted="true">
+      <Path>
+        <Point X="7.526" Y="1.25" />
+        <Point X="7.526" Y="0.656" />
+        <Point X="7.985" Y="0.656" />
+        <Point X="7.985" Y="1.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Checkers\Checker.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="NextChecker" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Mvc4Movies.Controllers.HelloWorldController">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAACAAAAAAAAAAAAAAAAAAAAEAAIAAAAA=</HashCode>
+      <FileName>Controllers\HelloWorldController.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="checker" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
